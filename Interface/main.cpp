@@ -1,9 +1,8 @@
-#include <iostream>
 
-using namespace std;
+#include "apresentacao/IUConta.hpp"
 
-int main()
-{
-    cout << "Hello world!" << endl;
+int main() {
+    IUConta iuConta;
+    iuConta.executar();
     return 0;
 }
