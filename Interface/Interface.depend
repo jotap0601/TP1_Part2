@@ -1,0 +1,345 @@
+# depslib dependency file v1.0
+1751843134 source:e:\downloads\tp1_part2-main\projeto\apresentacao\iucarteira.cpp
+	"IUCarteira.hpp"
+	<iostream>
+
+1751843134 e:\downloads\tp1_part2-main\projeto\apresentacao\iucarteira.hpp
+
+1751843134 source:e:\downloads\tp1_part2-main\projeto\apresentacao\iuconta.cpp
+	"IUConta.hpp"
+	"../servico/ServicoConta.hpp"
+	"../repositorio/RepositorioConta.hpp"
+	"../dominio/Conta.hpp"
+	"../apresentacao/IUCarteira.hpp"
+	"../apresentacao/IUOrdem.hpp"
+	<iostream>
+
+1751843134 e:\downloads\tp1_part2-main\projeto\apresentacao\iuconta.hpp
+
+1751843134 e:\downloads\tp1_part2-main\projeto\servico\servicoconta.hpp
+
+1751843134 e:\downloads\tp1_part2-main\projeto\repositorio\repositorioconta.hpp
+	"../dominio/Conta.hpp"
+	<vector>
+
+1751843134 e:\downloads\tp1_part2-main\projeto\dominio\conta.hpp
+	<string>
+
+1751843134 e:\downloads\tp1_part2-main\projeto\apresentacao\iuordem.hpp
+
+1751843134 source:e:\downloads\tp1_part2-main\projeto\apresentacao\iuordem.cpp
+	"IUOrdem.hpp"
+	<iostream>
+
+1751845465 source:e:\downloads\tp1_part2-main\projeto\dominio\conta.cpp
+	"Conta.hpp"
+	"../validacao/Validador.hpp"
+	<iostream>
+	<limits>
+
+1751845465 e:\downloads\tp1_part2-main\projeto\validacao\validador.hpp
+	<string>
+
+1751843134 source:e:\downloads\tp1_part2-main\projeto\main.cpp
+	"apresentacao/IUConta.hpp"
+
+1751843134 source:e:\downloads\tp1_part2-main\projeto\repositorio\repositorioconta.cpp
+	"RepositorioConta.hpp"
+
+1751843134 source:e:\downloads\tp1_part2-main\projeto\servico\servicoconta.cpp
+	"ServicoConta.hpp"
+	"../dominio/Conta.hpp"
+	"../repositorio/RepositorioConta.hpp"
+	<iostream>
+
+1751843134 source:e:\downloads\tp1_part2-main\projeto\validacao\validador.cpp
+	"Validador.hpp"
+
+1751843134 source:c:\users\davyv\onedrive\documentos\github\tp1_part2\projeto\apresentacao\iucarteira.cpp
+	"IUCarteira.hpp"
+	<iostream>
+
+1751849522 c:\users\davyv\onedrive\documentos\github\tp1_part2\projeto\apresentacao\iucarteira.hpp
+	<string>
+
+1751843134 source:c:\users\davyv\onedrive\documentos\github\tp1_part2\projeto\apresentacao\iuconta.cpp
+	"IUConta.hpp"
+	"../servico/ServicoConta.hpp"
+	"../repositorio/RepositorioConta.hpp"
+	"../dominio/Conta.hpp"
+	"../apresentacao/IUCarteira.hpp"
+	"../apresentacao/IUOrdem.hpp"
+	<iostream>
+
+1751843134 c:\users\davyv\onedrive\documentos\github\tp1_part2\projeto\apresentacao\iuconta.hpp
+
+1751849601 c:\users\davyv\onedrive\documentos\github\tp1_part2\projeto\servico\servicoconta.hpp
+
+1751843134 c:\users\davyv\onedrive\documentos\github\tp1_part2\projeto\repositorio\repositorioconta.hpp
+	"../dominio/Conta.hpp"
+	<vector>
+
+1751843134 c:\users\davyv\onedrive\documentos\github\tp1_part2\projeto\dominio\conta.hpp
+	<string>
+
+1751849537 c:\users\davyv\onedrive\documentos\github\tp1_part2\projeto\apresentacao\iuordem.hpp
+	<string>
+
+1751843134 source:c:\users\davyv\onedrive\documentos\github\tp1_part2\projeto\apresentacao\iuordem.cpp
+	"IUOrdem.hpp"
+	<iostream>
+
+1751845465 source:c:\users\davyv\onedrive\documentos\github\tp1_part2\projeto\dominio\conta.cpp
+	"Conta.hpp"
+	"../validacao/Validador.hpp"
+	<iostream>
+	<limits>
+
+1751845465 c:\users\davyv\onedrive\documentos\github\tp1_part2\projeto\validacao\validador.hpp
+	<string>
+
+1751843134 source:c:\users\davyv\onedrive\documentos\github\tp1_part2\projeto\main.cpp
+	"apresentacao/IUConta.hpp"
+
+1751843134 source:c:\users\davyv\onedrive\documentos\github\tp1_part2\projeto\repositorio\repositorioconta.cpp
+	"RepositorioConta.hpp"
+
+1751843134 source:c:\users\davyv\onedrive\documentos\github\tp1_part2\projeto\servico\servicoconta.cpp
+	"ServicoConta.hpp"
+	"../dominio/Conta.hpp"
+	"../repositorio/RepositorioConta.hpp"
+	<iostream>
+
+1751845869 source:c:\users\davyv\onedrive\documentos\github\tp1_part2\projeto\validacao\validador.cpp
+	"Validador.hpp"
+	<cctype>
+	<string>
+	<set>
+	<iostream>
+
+1751849559 source:c:\users\davyv\onedrive\documentos\github\tp1_part2\projeto\dominio\carteira.cpp
+	"Carteira.hpp"
+
+1751848823 c:\users\davyv\onedrive\documentos\github\tp1_part2\projeto\dominio\carteira.hpp
+	<string>
+	"Perfil.hpp"
+
+1751849604 c:\users\davyv\onedrive\documentos\github\tp1_part2\projeto\dominio\perfil.hpp
+
+1751848865 source:c:\users\davyv\onedrive\documentos\github\tp1_part2\projeto\dominio\ordem.cpp
+	"Ordem.hpp"
+
+1751849604 c:\users\davyv\onedrive\documentos\github\tp1_part2\projeto\dominio\ordem.hpp
+	<string>
+
+1751848947 source:c:\users\davyv\onedrive\documentos\github\tp1_part2\projeto\repositorio\repositorioordem.cpp
+	"RepositorioOrdem.hpp"
+	<algorithm>
+
+1751848937 c:\users\davyv\onedrive\documentos\github\tp1_part2\projeto\repositorio\repositorioordem.hpp
+	<vector>
+	<string>
+	"../dominio/Ordem.hpp"
+
+1751849101 source:c:\users\davyv\onedrive\documentos\github\tp1_part2\projeto\servico\servicodadoshistoricos.cpp
+	"ServicoDadosHistoricos.hpp"
+	<fstream>
+	<sstream>
+
+1751849083 c:\users\davyv\onedrive\documentos\github\tp1_part2\projeto\servico\servicodadoshistoricos.hpp
+	<string>
+
+1751849010 source:c:\users\davyv\onedrive\documentos\github\tp1_part2\projeto\servico\servicoordem.cpp
+	"ServicoOrdem.hpp"
+	"../repositorio/RepositorioOrdem.hpp"
+
+1751848994 c:\users\davyv\onedrive\documentos\github\tp1_part2\projeto\servico\servicoordem.hpp
+	<vector>
+	<string>
+	"../dominio/Ordem.hpp"
+
+1751843134 source:c:\users\davyv\onedrive\documentos\github\tp1_part2\interface\apresentacao\iuconta.cpp
+	"IUConta.hpp"
+	"../servico/ServicoConta.hpp"
+	"../repositorio/RepositorioConta.hpp"
+	"../dominio/Conta.hpp"
+	"../apresentacao/IUCarteira.hpp"
+	"../apresentacao/IUOrdem.hpp"
+	<iostream>
+
+1751843134 c:\users\davyv\onedrive\documentos\github\tp1_part2\interface\apresentacao\iuconta.hpp
+
+1751843134 c:\users\davyv\onedrive\documentos\github\tp1_part2\interface\servico\servicoconta.hpp
+
+1751843134 c:\users\davyv\onedrive\documentos\github\tp1_part2\interface\repositorio\repositorioconta.hpp
+	"../dominio/Conta.hpp"
+	<vector>
+
+1751843134 c:\users\davyv\onedrive\documentos\github\tp1_part2\interface\dominio\conta.hpp
+	<string>
+
+1751849026 c:\users\davyv\onedrive\documentos\github\tp1_part2\interface\apresentacao\iucarteira.hpp
+	<string>
+
+1751849048 c:\users\davyv\onedrive\documentos\github\tp1_part2\interface\apresentacao\iuordem.hpp
+	<string>
+
+1751848831 source:c:\users\davyv\onedrive\documentos\github\tp1_part2\interface\dominio\carteira.cpp
+	"Carteira.hpp"
+
+1751848823 c:\users\davyv\onedrive\documentos\github\tp1_part2\interface\dominio\carteira.hpp
+	<string>
+	"Perfil.hpp"
+
+1751849604 c:\users\davyv\onedrive\documentos\github\tp1_part2\interface\dominio\perfil.hpp
+
+1751843134 source:c:\users\davyv\onedrive\documentos\github\tp1_part2\interface\dominio\conta.cpp
+	"Conta.hpp"
+	"../validacao/Validador.hpp"
+	<iostream>
+
+1751843134 c:\users\davyv\onedrive\documentos\github\tp1_part2\interface\validacao\validador.hpp
+	<string>
+
+1751849679 source:c:\users\davyv\onedrive\documentos\github\tp1_part2\projeto\servico\servicocarteira.cpp
+	"ServicoCarteira.hpp"
+	"../repositorio/RepositorioCarteira.hpp"
+	"../dominio/Perfil.hpp"
+	<algorithm>
+
+1751848976 c:\users\davyv\onedrive\documentos\github\tp1_part2\projeto\servico\servicocarteira.hpp
+	<vector>
+	<string>
+	"../dominio/Carteira.hpp"
+
+1751848920 c:\users\davyv\onedrive\documentos\github\tp1_part2\projeto\repositorio\repositoriocarteira.hpp
+	<vector>
+	<string>
+	"../dominio/Carteira.hpp"
+
+1751848865 source:c:\users\davyv\onedrive\documentos\github\tp1_part2\interface\dominio\ordem.cpp
+	"Ordem.hpp"
+
+1751849604 c:\users\davyv\onedrive\documentos\github\tp1_part2\interface\dominio\ordem.hpp
+	<string>
+
+1751843134 source:c:\users\davyv\onedrive\documentos\github\tp1_part2\interface\main.cpp
+	"apresentacao/IUConta.hpp"
+
+1751843134 source:c:\users\davyv\onedrive\documentos\github\tp1_part2\interface\obj\projeto\apresentacao\iucarteira.cpp
+	"IUCarteira.hpp"
+	<iostream>
+
+1751843134 c:\users\davyv\onedrive\documentos\github\tp1_part2\interface\obj\projeto\apresentacao\iucarteira.hpp
+
+1751843134 source:c:\users\davyv\onedrive\documentos\github\tp1_part2\interface\obj\projeto\apresentacao\iuconta.cpp
+	"IUConta.hpp"
+	"../servico/ServicoConta.hpp"
+	"../repositorio/RepositorioConta.hpp"
+	"../dominio/Conta.hpp"
+	"../apresentacao/IUCarteira.hpp"
+	"../apresentacao/IUOrdem.hpp"
+	<iostream>
+
+1751843134 c:\users\davyv\onedrive\documentos\github\tp1_part2\interface\obj\projeto\apresentacao\iuconta.hpp
+
+1751843134 c:\users\davyv\onedrive\documentos\github\tp1_part2\interface\obj\projeto\servico\servicoconta.hpp
+
+1751843134 c:\users\davyv\onedrive\documentos\github\tp1_part2\interface\obj\projeto\repositorio\repositorioconta.hpp
+	"../dominio/Conta.hpp"
+	<vector>
+
+1751843134 c:\users\davyv\onedrive\documentos\github\tp1_part2\interface\obj\projeto\dominio\conta.hpp
+	<string>
+
+1751843134 c:\users\davyv\onedrive\documentos\github\tp1_part2\interface\obj\projeto\apresentacao\iuordem.hpp
+
+1751843134 source:c:\users\davyv\onedrive\documentos\github\tp1_part2\interface\obj\projeto\apresentacao\iuordem.cpp
+	"IUOrdem.hpp"
+	<iostream>
+
+1751843134 source:c:\users\davyv\onedrive\documentos\github\tp1_part2\interface\obj\projeto\dominio\conta.cpp
+	"Conta.hpp"
+	"../validacao/Validador.hpp"
+	<iostream>
+
+1751843134 c:\users\davyv\onedrive\documentos\github\tp1_part2\interface\obj\projeto\validacao\validador.hpp
+	<string>
+
+1751843134 source:c:\users\davyv\onedrive\documentos\github\tp1_part2\interface\obj\projeto\main.cpp
+	"apresentacao/IUConta.hpp"
+
+1751843134 source:c:\users\davyv\onedrive\documentos\github\tp1_part2\interface\obj\projeto\repositorio\repositorioconta.cpp
+	"RepositorioConta.hpp"
+
+1751843134 source:c:\users\davyv\onedrive\documentos\github\tp1_part2\interface\obj\projeto\servico\servicoconta.cpp
+	"ServicoConta.hpp"
+	"../dominio/Conta.hpp"
+	"../repositorio/RepositorioConta.hpp"
+	<iostream>
+
+1751843134 source:c:\users\davyv\onedrive\documentos\github\tp1_part2\interface\obj\projeto\validacao\validador.cpp
+	"Validador.hpp"
+
+1751843134 source:c:\users\davyv\onedrive\documentos\github\tp1_part2\interface\repositorio\repositorioconta.cpp
+	"RepositorioConta.hpp"
+
+1751848947 source:c:\users\davyv\onedrive\documentos\github\tp1_part2\interface\repositorio\repositorioordem.cpp
+	"RepositorioOrdem.hpp"
+	<algorithm>
+
+1751848937 c:\users\davyv\onedrive\documentos\github\tp1_part2\interface\repositorio\repositorioordem.hpp
+	<vector>
+	<string>
+	"../dominio/Ordem.hpp"
+
+1751843134 source:c:\users\davyv\onedrive\documentos\github\tp1_part2\interface\servico\servicoconta.cpp
+	"ServicoConta.hpp"
+	"../dominio/Conta.hpp"
+	"../repositorio/RepositorioConta.hpp"
+	<iostream>
+
+1751849101 source:c:\users\davyv\onedrive\documentos\github\tp1_part2\interface\servico\servicodadoshistoricos.cpp
+	"ServicoDadosHistoricos.hpp"
+	<fstream>
+	<sstream>
+
+1751849083 c:\users\davyv\onedrive\documentos\github\tp1_part2\interface\servico\servicodadoshistoricos.hpp
+	<string>
+
+1751849010 source:c:\users\davyv\onedrive\documentos\github\tp1_part2\interface\servico\servicoordem.cpp
+	"ServicoOrdem.hpp"
+	"../repositorio/RepositorioOrdem.hpp"
+
+1751848994 c:\users\davyv\onedrive\documentos\github\tp1_part2\interface\servico\servicoordem.hpp
+	<vector>
+	<string>
+	"../dominio/Ordem.hpp"
+
+1751843134 source:c:\users\davyv\onedrive\documentos\github\tp1_part2\interface\validacao\validador.cpp
+	"Validador.hpp"
+
+1751849782 source:c:\users\davyv\onedrive\documentos\github\tp1_part2\projeto\repositorio\repositoriocarteira.cpp
+	"RepositorioCarteira.hpp"
+	<algorithm>
+
+1751849816 source:c:\users\davyv\onedrive\documentos\github\tp1_part2\interface\repositorio\repositoriocarteira.cpp
+	"RepositorioCarteira.hpp"
+	<algorithm>
+
+1751848920 c:\users\davyv\onedrive\documentos\github\tp1_part2\interface\repositorio\repositoriocarteira.hpp
+	<vector>
+	<string>
+	"../dominio/Carteira.hpp"
+
+1751849848 source:c:\users\davyv\onedrive\documentos\github\tp1_part2\interface\servico\servicocarteira.cpp
+	"ServicoCarteira.hpp"
+	"../repositorio/RepositorioCarteira.hpp"
+	"../dominio/Perfil.hpp"
+	<algorithm>
+
+1751848976 c:\users\davyv\onedrive\documentos\github\tp1_part2\interface\servico\servicocarteira.hpp
+	<vector>
+	<string>
+	"../dominio/Carteira.hpp"
+
